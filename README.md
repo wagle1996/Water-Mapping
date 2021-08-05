@@ -6,6 +6,6 @@ Title: Evaluation of Machine Learning Algorithms for Surface Water Extraction in
 DOI: https://doi.org/10.3390/s19122769 </br>
 URL: https://www.mdpi.com/1424-8220/19/12/2769 </br>
 
-Special thanks to Dr. Tri Dev Acharya for allowing this to share. </br>
+Special thanks to Dr. Tri Dev Acharya for allowing this to share. To learn more of his surface water mapping works see his scholar lsit: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=tri+dev+surface+water+landsat&btnG= </br>
 ___
 <img align="left" alt="PNG" src="https://www.mdpi.com/sensors/sensors-19-02769/article_deploy/html/images/sensors-19-02769-g001-550.jpg" />
